@@ -1,0 +1,124 @@
+.backgroundProvinsi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#dki .backgroundProvinsi {
+    justify-content: flex-end;
+}
+
+#jabar .backgroundProvinsi img {
+    position: absolute;
+    bottom: -12rem;
+    z-index: 2;
+}
+
+#jateng .backgroundProvinsi img {
+    position: absolute;
+    bottom: -18rem;
+    z-index: 2;
+    transform: translateX(1.5%);
+}
+
+#jatim .backgroundProvinsi img {
+    position: absolute;
+    bottom: -40rem;
+    z-index: 2;
+    transform: translateX(1%);
+}
+
+#banten .backgroundProvinsi img {
+    position: absolute;
+    height: 100%;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+}
+
+#dki .backgroundProvinsi img {
+    position: absolute;
+    z-index: 2;
+}
+
+#dki .backgroundProvinsi img:nth-child(1) {
+    height: 100%;
+    right: 0;
+    bottom: -10%;
+}
+
+#dki .backgroundProvinsi img:nth-child(2) {
+    height: 70%;
+    right: 38%;
+    bottom: 0;
+}
+
+#diy .backgroundProvinsi img {
+    position: absolute;
+    bottom: -10rem;
+    left: -15%;
+    height: 120%;
+    z-index: 2;
+}
+
+#bali .backgroundProvinsi img {
+    position: absolute;
+    min-width: 100%;
+    bottom: -15rem;
+}
+
+#ntb .backgroundProvinsi img {
+    position: absolute;
+    bottom: -15rem;
+    min-width: 100%;
+}
+
+#ntt .backgroundProvinsi img {
+    position: absolute;
+    bottom: -15rem;
+    min-width: 100%;
+}
+
+#aceh .backgroundProvinsi img {
+    position: absolute;
+    bottom: -35rem;
+    min-width: 100%;
+    transform: translateX(2%);
+}
+
+#sumut .backgroundProvinsi img {
+    position: absolute;
+    min-width: 100%;
+    bottom: -10rem;
+}
+
+/* #riau .backgroundProvinsi img {
+    position: absolute;
+    min-width: 100%;
+    bottom: -10rem;
+} */
+
+#kepri .backgroundProvinsi img {
+    position: absolute;
+    min-width: 100%;
+    bottom: -10rem;
+}
+
+#sumbar .backgroundProvinsi img {
+    position: absolute;
+    min-width: 100%;
+    bottom: -5rem;
+}
+
+#sumsel .backgroundProvinsi img {
+    position: absolute;
+    min-width: 100%;
+    width: 100vw;
+    bottom: -2rem;
+    left: 25%;
+}
+
+#jambi .backgroundProvinsi img {
+    position: absolute;
+    min-width: 100%;
+}
