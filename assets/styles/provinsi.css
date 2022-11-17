@@ -120,5 +120,78 @@
 
 #jambi .backgroundProvinsi img {
     position: absolute;
+    width: 100%;
+    bottom: -15rem;
+}
+
+#lampung .backgroundProvinsi img {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+#bengkulu .backgroundProvinsi img {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+#bangkabelitung .backgroundProvinsi img {
+    position: absolute;
+    width: 100%;
+    bottom: -15rem;
+}
+
+#kaltim .backgroundProvinsi img {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+#kalut .backgroundProvinsi img {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+#kalsel .backgroundProvinsi img {
+    position: absolute;
+    width: 100%;
+    bottom: -4rem;
+}
+
+#kalbar .backgroundProvinsi img {
+    position: absolute;
+    width: 100%;
+    bottom: -5rem;
+}
+
+#kalteng .backgroundProvinsi img {
+    position: absolute;
+    width: 100%;
+    bottom: -5rem;
+}
+
+#sulut .backgroundProvinsi img {
+    position: absolute;
     min-width: 100%;
+    bottom: -35rem;
+}
+
+#sulsel .backgroundProvinsi img {
+    position: absolute;
+    min-width: 100%;
+    bottom: -10rem;
+}
+
+#sulteng .backgroundProvinsi img {
+    position: absolute;
+    min-width: 100%;
+    bottom: -15rem;
+}
+
+#sultenggara .backgroundProvinsi img {
+    position: absolute;
+    min-width: 100%;
+    bottom: -20rem;
 }

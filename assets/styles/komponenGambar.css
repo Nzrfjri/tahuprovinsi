@@ -340,3 +340,292 @@
     bottom: -3rem;
     left: 10%;
 }
+
+#jambi .components img:nth-child(1) {
+    width: 25%;
+    bottom: 5%;
+    left: 10%;
+}
+
+#jambi .components img:nth-child(2) {
+    bottom: -8rem;
+    left: -5rem;
+    width: 35%;
+}
+
+#jambi .components img:nth-child(3) {
+    width: 20%;
+    bottom: -11rem;
+    left: 21%;
+}
+
+#jambi .components img:nth-child(4) {
+    width: 15%;
+    bottom: -3rem;
+    left: 10%;
+}
+
+#lampung .components img:nth-child(1) {
+    width: 35%;
+    bottom: 12%;
+    left: -5rem;
+}
+
+#lampung .components img:nth-child(2) {
+    width: 20%;
+    bottom: -3rem;
+    left: 20%;
+}
+
+#lampung .components img:nth-child(3) {
+    width: 30%;
+    bottom: -2rem;
+    left: -1rem;
+}
+
+#bengkulu .components img:nth-child(1) {
+    width: 40%;
+    bottom: 12%;
+    left: -7rem;
+}
+
+#bengkulu .components img:nth-child(2) {
+    width: 30%;
+    bottom: 0;
+    left: -3rem;
+}
+
+#bengkulu .components img:nth-child(3) {
+    width: 25%;
+    bottom: -4rem;
+    left: 8%;
+}
+
+#bangkabelitung .components img:nth-child(1) {
+    width: 30%;
+    bottom: 8%;
+    left: -4rem;
+}
+
+#bangkabelitung .components img:nth-child(2) {
+    width: 30%;
+    bottom: -8rem;
+    left: -4rem;
+    transform: rotate(-90deg);
+}
+
+#bangkabelitung .components img:nth-child(3) {
+    width: 30%;
+    bottom: -3rem;
+    left: 10%;
+}
+
+#kaltim .components img:nth-child(1) {
+    width: 30%;
+    right: -8rem;
+    bottom: 12%;
+}
+
+#kaltim .components img:nth-child(2) {
+    width: 25%;
+    right: 10%;
+    bottom: 14%;
+}
+
+#kaltim .components img:nth-child(3) {
+    width: 25%;
+    right: 12%;
+    bottom: -2rem;
+}
+
+#kaltim .components img:nth-child(4) {
+    width: 40%;
+    right: -7rem;
+    bottom: -1rem;
+}
+
+#kalut .components img:nth-child(1) {
+    width: 20%;
+    bottom: 15%;
+    left: 0;
+}
+
+#kalut .components img:nth-child(2) {
+    width: 30%;
+    bottom: 0;
+    left: 8%;
+}
+
+#kalut .components img:nth-child(3) {
+    width: 20%;
+    bottom: 0;
+    left: 0;
+}
+
+#kalut .components img:nth-child(4) {
+    width: 20%;
+    bottom: 0;
+    left: 12%;
+}
+
+#kalsel .components img:nth-child(1) {
+    width: 30%;
+    bottom: 18%;
+    left: -2rem;
+}
+
+#kalsel .components img:nth-child(2) {
+    width: 30%;
+    bottom: 12%;
+    left: 1%;
+}
+
+#kalsel .components img:nth-child(3) {
+    width: 25%;
+    bottom: -3rem;
+    left: -3rem;
+}
+
+#kalsel .components img:nth-child(4) {
+    width: 25%;
+    bottom: -6rem;
+    left: 10%;
+}
+
+#kalbar .components img:nth-child(1) {
+    width: 15%;
+    bottom: 15%;
+    left: 0;
+}
+
+#kalbar .components img:nth-child(2) {
+    width: 30%;
+    bottom: -1rem;
+    left: 2%;
+}
+
+#kalbar .components img:nth-child(3) {
+    width: 20%;
+    bottom: -1rem;
+    left: 0;
+}
+
+#kalteng .components img:nth-child(1) {
+    width: 35%;
+    bottom: 20%;
+    left: 0;
+}
+
+#kalteng .components img:nth-child(2) {
+    width: 18%;
+    bottom: 6%;
+    left: 6%;
+}
+
+#kalteng .components img:nth-child(3) {
+    width: 15%;
+    bottom: 0;
+    left: 0;
+}
+
+#kalteng .components img:nth-child(4) {
+    width: 18%;
+    bottom: -1rem;
+    left: 6%;
+}
+
+#sulut .components img:nth-child(1) {
+    width: 20%;
+    bottom: 20%;
+    left: -5rem;
+}
+/* 
+#sulut .components img:nth-child(2) {
+    width: 18%;
+    bottom: 6%;
+    left: 6%;
+}
+ */
+#sulut .components img:nth-child(3) {
+    width: 25%;
+    bottom: -1rem;
+    left: -4rem;
+}
+
+#sulut .components img:nth-child(4) {
+    width: 20%;
+    bottom: 0;
+    left: 6%;
+}
+
+#sulsel .components img:nth-child(1) {
+    width: 15%;
+    bottom: 14%;
+    left: -1rem;
+}
+
+#sulsel .components img:nth-child(2) {
+    width: 20%;
+    bottom: 20%;
+    left: 8%;
+}
+
+#sulsel .components img:nth-child(3) {
+    width: 30%;
+    bottom: 0;
+    left: -4rem;
+}
+
+#sulsel .components img:nth-child(4) {
+    width: 25%;
+    bottom: 0;
+    left: 9%;
+}
+
+#sulteng .components img:nth-child(1) {
+    width: 30%;
+    bottom: 4%;
+    left: -7rem;
+}
+
+#sulteng .components img:nth-child(2) {
+    width: 20%;
+    bottom: -4rem;
+    left: 8%;
+}
+
+#sulteng .components img:nth-child(3) {
+    width: 25%;
+    bottom: 0;
+    left: 0;
+}
+
+#sulteng .components img:nth-child(4) {
+    width: 30%;
+    bottom: -1rem;
+    left: 12%;
+}
+
+#sultenggara .components img:nth-child(1) {
+    width: 50%;
+    bottom: -2rem;
+    left: -16rem;
+}
+
+#sultenggara .components img:nth-child(2) {
+    width: 30%;
+    bottom: 0;
+    left: 5%;
+}
+
+#sultenggara .components img:nth-child(3) {
+    width: 25%;
+    bottom: 0;
+    left: -1rem;
+}
+
+#sultenggara .components img:nth-child(4) {
+    width: 30%;
+    bottom: -1rem;
+    left: 12%;
+}
