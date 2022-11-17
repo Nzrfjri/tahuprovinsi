@@ -8,9 +8,9 @@
     <link rel="shortcut icon" href="..." type="image/x-icon">
     <link rel="stylesheet" href="./assets/styles/style.css">
     <link rel="stylesheet" href="./assets/styles/header.css">
-    <link rel="stylesheet" href="./assets/styles/langit.css">
+    <link rel="stylesheet" href="./assets/styles/sky.css">
     <link rel="stylesheet" href="./assets/styles/provinsi.css">
-    <link rel="stylesheet" href="./assets/styles/komponenGambar.css">
+    <link rel="stylesheet" href="./assets/styles/componentsimage.css">
 </head>
 <body>
     <header>
@@ -29,7 +29,7 @@
     <main>
         <div id="content">
             <section class="provinsi">
-                <!-- <article id="jabar" class="">
+                <article id="jabar" class="">
                     <div class="head">
                         <h2><span>J</span><span>A</span><span>W</span><span>A</span><span> </span><span>B</span><span>A</span><span>R</span><span>A</span><span>T</span></h2>
                         <button>Details</button>
@@ -165,8 +165,8 @@
                         <img src="./assets/images/components/Komodo_NTT.webp" />
                         <img src="./assets/images/components/PakaianAdatSabu_NTT.webp" />
                     </div>
-                </article> -->
-                <!-- <article id="aceh" class="">
+                </article>
+                <article id="aceh" class="">
                     <div class="head">
                         <h2><span>A</span><span>C</span><span>E</span><span>H</span></h2>
                         <button>Details</button>
@@ -307,8 +307,8 @@
                         <img src="./assets/images/components/MieAyamBangka_BangkaBelitung.webp" />
                         <img src="./assets/images/components/HarmonisasiBudayaTionghoa_BangkaBelitung.webp" />
                     </div>
-                </article> -->
-                <!-- <article id="kaltim" class="">
+                </article>
+                <article id="kaltim" class="">
                     <div class="head">
                         <h2><span>K</span><span>A</span><span>L</span><span>I</span><span>M</span><span>A</span><span>N</span><span>T</span><span>A</span><span>N</span><span> </span><span>T</span><span>I</span><span>M</span><span>U</span><span>R</span></h2>
                         <button>Details</button>
@@ -381,7 +381,7 @@
                         <img src="./assets/images/components/OrangUtan_KalTeng.webp" />
                         <img src="./assets/images/components/PakaianAdatDayak_KalTeng.webp" />
                     </div>
-                </article> -->
+                </article>
                 <article id="sulut" class="">
                     <div class="head">
                         <h2><span>S</span><span>U</span><span>L</span><span>A</span><span>W</span><span>E</span><span>S</span><span>I</span><span> </span><span>U</span><span>T</span><span>A</span><span>R</span><span>A</span></h2>
@@ -442,34 +442,148 @@
                         <img src="./assets/images/components/PakaianAdatLariangiKaledupa_SulTenggara.webp" />
                     </div>
                 </article>
-                <article id="sulut" class="">
+                <article id="sulbar" class="">
                     <div class="head">
-                        <h2><span>S</span><span>U</span><span>L</span><span>A</span><span>W</span><span>E</span><span>S</span><span>I</span><span> </span><span>U</span><span>T</span><span>A</span><span>R</span><span>A</span></h2>
+                        <h2><span>S</span><span>U</span><span>L</span><span>A</span><span>W</span><span>E</span><span>S</span><span>I</span><span> </span><span>B</span><span>A</span><span>R</span><span>A</span><span>T</span></h2>
                         <button>Details</button>
                     </div>
                     <div class="backgroundProvinsi">
-                        <img src="./assets/images/background_provinsi/SelatLembeh_SulUt.webp" class="backgroundProvinsi" />
+                        <img src="./assets/images/background_provinsi/PantaiPalippis_SulBar.webp" class="backgroundProvinsi" />
                     </div>
                     <div class="components">
-                        <img src="./assets/images/components/BuburMando_SulUt.webp" />
-                        <img src="./assets/images/components/.../" />
-                        <img src="./assets/images/components/Walewangko_SulUt.webp" />
-                        <img src="./assets/images/components/TariKabasaran_SulUt.webp" />
+                        <img src="./assets/images/components/MandarDengkur_SulBar.webp" />
+                        <img src="./assets/images/components/TarianSulBar_SulBar.webp" />
+                        <img src="./assets/images/components/BauPeapi_SulBar.webp" />
+                        <img src="./assets/images/components/RumahAdatBoyang_SulBar.webp" />
                     </div>
                 </article>
-                <article id="sulut" class="">
+                <article id="gorontalo" class="">
                     <div class="head">
-                        <h2><span>S</span><span>U</span><span>L</span><span>A</span><span>W</span><span>E</span><span>S</span><span>I</span><span> </span><span>U</span><span>T</span><span>A</span><span>R</span><span>A</span></h2>
+                        <h2><span>G</span><span>O</span><span>R</span><span>O</span><span>N</span><span>T</span><span>A</span><span>L</span><span>O</span></h2>
                         <button>Details</button>
                     </div>
                     <div class="backgroundProvinsi">
-                        <img src="./assets/images/background_provinsi/SelatLembeh_SulUt.webp" class="backgroundProvinsi" />
+                        <img src="./assets/images/background_provinsi/PantaiBolihutuo_Gorontalo.webp" class="backgroundProvinsi" />
                     </div>
                     <div class="components">
-                        <img src="./assets/images/components/BuburMando_SulUt.webp" />
+                        <img src="./assets/images/components/PatungBJHabibie_Gorontalo.webp" />
+                        <img src="./assets/images/components/PatungNaniWartabone_Gorontalo.webp" />
+                        <img src="./assets/images/components/BinteBiluhuta_Gorontalo.webp" />
+                        <img src="./assets/images/components/PakaianAdatBiliuPaluwata_Gorontalo.webp" />
+                    </div>
+                </article>
+                <article id="maluku" class="">
+                    <div class="head">
+                        <h2><span>M</span><span>A</span><span>L</span><span>U</span><span>K</span><span>U</span></h2>
+                        <button>Details</button>
+                    </div>
+                    <div class="backgroundProvinsi">
+                        <img src="./assets/images/background_provinsi/PulauMorotai_Maluku.webp" class="backgroundProvinsi" />
+                    </div>
+                    <div class="components">
+                        <img src="./assets/images/components/KapitenPatimura_Maluku.webp" />
+                        <img src="./assets/images/components/GongPerdamaian_Maluku.webp" />
+                        <img src="./assets/images/components/Nuri_Maluku.webp" />
+                        <img src="./assets/images/components/PakaianAdatCele_Maluku.webp" />
+                    </div>
+                </article>
+                <article id="malukuutara" class="">
+                    <div class="head">
+                        <h2><span>M</span><span>A</span><span>L</span><span>U</span><span>K</span><span>U</span><span> </span><span>U</span><span>T</span><span>A</span><span>R</span><span>A</span></h2>
+                        <button>Details</button>
+                    </div>
+                    <div class="backgroundProvinsi">
+                        <img src="./assets/images/background_provinsi/DanauTolire_MalukuUtara.webp" class="backgroundProvinsi" />
+                    </div>
+                    <div class="components">
+                        <img src="./assets/images/components/BidadariHalmahera_MalukuUtara.webp" />
+                        <img src="./assets/images/components/TariKolosalTokuwela_MalukuUtara.webp" />
+                        <img src="./assets/images/components/TariLalayon_MalukuUtara.webp" />
+                        <img src="./assets/images/components/GohuIkan_MalukuUtara.webp" />
+                    </div>
+                </article>
+                <article id="papua" class="">
+                    <div class="head">
+                        <h2><span>P</span><span>A</span><span>P</span><span>U</span><span>A</span></h2>
+                        <button>Details</button>
+                    </div>
+                    <div class="backgroundProvinsi">
+                        <img src="./assets/images/background_provinsi/Jayapura_Papua.webp" class="backgroundProvinsi" />
+                    </div>
+                    <div class="components">
+                        <img src="./assets/images/components/Cendrawasih_Papua.webp" />
+                        <img src="./assets/images/components/LauLau_Papua.webp" />
+                        <img src="./assets/images/components/Yaki_Papua.webp" />
+                    </div>
+                </article>
+                <article id="papuabarat" class="">
+                    <div class="head">
+                        <h2><span>P</span><span>A</span><span>P</span><span>U</span><span>A</span><span> </span><span>B</span><span>A</span><span>R</span><span>A</span><span>T</span></h2>
+                        <button>Details</button>
+                    </div>
+                    <div class="backgroundProvinsi">
+                        <img src="./assets/images/background_provinsi/RajaAmpat_PapuaBarat.webp" class="backgroundProvinsi" />
+                    </div>
+                    <div class="components">
+                        <img src="./assets/images/components/Cenderawasih_PapuaBarat.webp" />
+                        <img src="./assets/images/components/Maleo_PapuaBarat.webp" />
+                        <img src="./assets/images/components/Papeda_PapuaBarat.webp" />
+                    </div>
+                </article>
+                <article id="papuapegunungan" class="">
+                    <div class="head">
+                        <h2><span>P</span><span>A</span><span>P</span><span>U</span><span>A</span><span> </span><span>P</span><span>E</span><span>G</span><span>U</span><span>N</span><span>U</span><span>N</span><span>G</span><span>A</span><span>N</span></h2>
+                        <button>Details</button>
+                    </div>
+                    <div class="backgroundProvinsi">
+                        <img src="./assets/images/background_provinsi/PuncakJayaWijaya_PapuaPegunungan.webp" class="backgroundProvinsi" />
+                    </div>
+                    <div class="components">
+                        <img src="./assets/images/components/Trompet_PapuaPegunungan.webp" />
+                        <img src="./assets/images/components/NuriKabare_PapuaPegunungan.webp" />
+                        <img src="./assets/images/components/Honai_PapuaPegunungan.webp" />
+                    </div>
+                </article>
+                <article id="papuatengah" class="">
+                    <div class="head">
+                        <h2><span>P</span><span>A</span><span>P</span><span>U</span><span>A</span><span> </span><span>T</span><span>E</span><span>N</span><span>G</span><span>A</span><span>H</span></h2>
+                        <button>Details</button>
+                    </div>
+                    <div class="backgroundProvinsi">
+                        <img src="./assets/images/background_provinsi/TamanNasionalLorentz_PapuaTengah.webp" class="backgroundProvinsi" />
+                    </div>
+                    <div class="components">
+                        <img src="./assets/images/components/Tifa_PapuaTengah.webp" />
+                        <img src="./assets/images/components/Pikon_PapuaTengah.webp" />
+                        <img src="./assets/images/components/Yi_PapuaTengah.webp" />
+                    </div>
+                </article>
+                <article id="papuaselatan" class="">
+                    <div class="head">
+                        <h2><span>P</span><span>A</span><span>P</span><span>U</span><span>A</span><span> </span><span>S</span><span>E</span><span>L</span><span>A</span><span>T</span><span>A</span><span>N</span></h2>
+                        <button>Details</button>
+                    </div>
+                    <div class="backgroundProvinsi">
+                        <img src="./assets/images/background_provinsi/Honai_PapuaSelatan.webp" class="backgroundProvinsi" />
+                    </div>
+                    <div class="components">
+                        <img src="./assets/images/components/Fuu_PapuaSelatan.webp" />
+                        <img src="./assets/images/components/Tifa_PapuaSelatan.webp" />
+                        <img src="./assets/images/components/SukuDani_PapuaSelatan.webp" />
+                    </div>
+                </article>
+                <article id="papuabaratdaya" class="">
+                    <div class="head">
+                        <h2><span>P</span><span>A</span><span>P</span><span>U</span><span>A</span><span> </span><span>B</span><span>A</span><span>R</span><span>A</span><span>T</span><span> </span><span>D</span><span>A</span><span>Y</span><span>A</span></h2>
+                        <button>Details</button>
+                    </div>
+                    <div class="backgroundProvinsi">
+                        <img src="./assets/images/background_provinsi/.../" class="backgroundProvinsi" />
+                    </div>
+                    <div class="components">
                         <img src="./assets/images/components/.../" />
-                        <img src="./assets/images/components/Walewangko_SulUt.webp" />
-                        <img src="./assets/images/components/TariKabasaran_SulUt.webp" />
+                        <img src="./assets/images/components/.../" />
+                        <img src="./assets/images/components/.../" />
                     </div>
                 </article>
             </section>
@@ -494,10 +608,12 @@
         }
         let waktu = localStorage.getItem("waktu");
 
-        for (let i=0; i<provinsi.length; i++) {
-            provinsi[i].classList.add(langit[`${waktu}`]+(Math.floor(Math.random()*5)+1));
+        const setLangit = () => {
+            for (let i=0; i<provinsi.length; i++) {
+                provinsi[i].classList.add(langit[`${waktu}`]+(Math.floor(Math.random()*5)+1));
+            };
         };
-
+        setLangit();
         // ~~~~~ //
         
         for (let i=5; i<provinsi.length; i++) {

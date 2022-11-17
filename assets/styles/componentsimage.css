@@ -629,3 +629,211 @@
     bottom: -1rem;
     left: 12%;
 }
+
+#sulbar .components img:nth-child(1) {
+    width: 25%;
+    bottom: 2%;
+    left: 10%;
+}
+
+#sulbar .components img:nth-child(2) {
+    width: 30%;
+    bottom: -2rem;
+    left: 0;
+}
+
+#sulbar .components img:nth-child(3) {
+    width: 15%;
+    bottom: 5%;
+    left: -2rem;
+}
+
+#sulbar .components img:nth-child(4) {
+    width: 25%;
+    bottom: 0;
+    left: -8rem;
+}
+
+#gorontalo .components img:nth-child(1) {
+    width: 40%;
+    bottom: -22rem;
+    left: -12rem;
+}
+
+#gorontalo .components img:nth-child(2) {
+    width: 30%;
+    bottom: -4rem;
+    left: -1rem;
+}
+
+#gorontalo .components img:nth-child(3) {
+    width: 25%;
+    bottom: -4rem;
+    left: 5%;
+}
+
+#gorontalo .components img:nth-child(4) {
+    width: 25%;
+    bottom: 0;
+    left: -2rem;
+}
+
+#maluku .components img:nth-child(1) {
+    width: 30%;
+    bottom: 0;
+    left: 2%;
+}
+
+#maluku .components img:nth-child(2) {
+    width: 20%;
+    bottom: 0;
+    left: -3rem;
+}
+
+#maluku .components img:nth-child(3) {
+    width: 15%;
+    bottom: -4rem;
+    left: 8%;
+}
+
+#maluku .components img:nth-child(4) {
+    width: 12%;
+    bottom: -4rem;
+    left: 18%;
+}
+
+#malukuutara .components img:nth-child(1) {
+    width: 25%;
+    bottom: 32%;
+    left: -5rem;
+}
+
+#malukuutara .components img:nth-child(2) {
+    width: 15%;
+    bottom: 8%;
+    left: 8%;
+}
+
+#malukuutara .components img:nth-child(3) {
+    width: 18%;
+    bottom: 0;
+    left: 13%;
+}
+
+#malukuutara .components img:nth-child(4) {
+    width: 30%;
+    bottom: -3rem;
+    left: -9rem;
+}
+
+#papua .components img:nth-child(1) {
+    width: 30%;
+    bottom: 12%;
+    left: 3%;
+}
+
+#papua .components img:nth-child(2) {
+    width: 25%;
+    bottom: -4rem;
+    left: 14%;
+}
+
+#papua .components img:nth-child(3) {
+    width: 30%;
+    bottom: 0;
+    left: -2rem;
+}
+
+#papuabarat .components img:nth-child(1) {
+    width: 15%;
+    bottom: 15%;
+    left: 0;
+}
+
+#papuabarat .components img:nth-child(2) {
+    width: 25%;
+    bottom: -3rem;
+    left: 8%;
+}
+
+#papuabarat .components img:nth-child(3) {
+    width: 25%;
+    bottom: -2rem;
+    left: -2rem;
+}
+
+#papuapegunungan .components img:nth-child(1) {
+    width: 30%;
+    bottom: 16%;
+    left: 0;
+    transform: rotate(180deg);
+}
+
+#papuapegunungan .components img:nth-child(2) {
+    width: 15%;
+    bottom: -3rem;
+    left: 12%;
+}
+
+#papuapegunungan .components img:nth-child(3) {
+    width: 30%;
+    bottom: -2rem;
+    left: -10rem;
+}
+
+#papuatengah .components img:nth-child(1) {
+    width: 25%;
+    bottom: 0;
+    left: 10%;
+    transform: rotate(-70deg);
+}
+
+#papuatengah .components img:nth-child(2) {
+    width: 40%;
+    bottom: 0;
+    left: -8rem;
+}
+
+#papuatengah .components img:nth-child(3) {
+    width: 30%;
+    bottom: -7rem;
+    left: 6%;
+    transform: rotate(-40deg);
+}
+
+#papuaselatan .components img:nth-child(1) {
+    width: 30%;
+    right: 8%;
+    bottom: -2rem;
+}
+
+#papuaselatan .components img:nth-child(2) {
+    width: 40%;
+    right: -17rem;
+    bottom: 5%;
+    transform: rotate(-30deg);
+}
+
+#papuaselatan .components img:nth-child(3) {
+    width: 35%;
+    right: -7rem;
+    bottom: -3rem;
+}
+
+/* #papuabaratdaya .components img:nth-child(1) {
+    width: 30%;
+    right: 8%;
+    bottom: -2rem;
+}
+
+#papuabaratdaya .components img:nth-child(2) {
+    width: 40%;
+    right: -17rem;
+    bottom: 5%;
+}
+
+#papuabaratdaya .components img:nth-child(3) {
+    width: 35%;
+    right: -7rem;
+    bottom: -3rem;
+} */
